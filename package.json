@@ -2,7 +2,7 @@
   "name": "quasar-todo",
   "version": "0.0.1",
   "description": "ToDo App",
-  "productName": "Quasar App",
+  "productName": "Quasar ToDo",
   "author": "Mario",
   "private": true,
   "scripts": {
